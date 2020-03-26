@@ -1,4 +1,10 @@
-# 東京都 新型コロナウイルス感染症対策サイト
+# 沖縄県 新型コロナウイルス感染症対策サイト
+東京都 新型コロナウイルス感染症対策サイトをフォークして作成します。
+
+## GOAL
+[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/) の沖縄版を作成します。
+
+====== 以下、本家のまま未編集です（沖縄用に更新の必要有り） ======
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
 
